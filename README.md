@@ -11,7 +11,7 @@ CD into the project and use the command "npm install" to install the dependacies
 You'll need to open up two terminal windows
 
 1. Use "ng serve --open" to open the project in localhost
-2. In another terminal window, use the command "json-server --watch db.json" to create a mock db using the json file. (Add the extension "json-serve" if you dont have it already.)
+2. In another terminal window, use the command "json-server --watch db.json" to start the mock db using the json file. (Add the extension "json-serve" if you dont have it already.)
 
 ## Review Website
 
